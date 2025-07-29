@@ -24,7 +24,7 @@ This project extracts and visualizes stock data and revenue for Tesla (TSLA) and
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/kamran44668/Stock-Data-Visualizer.git](https://github.com/kamran44668/Stock-Data-Visualizer.git)
+    git clone [https://github.com/kamran44668/Stock-Data-Visualizer.git]
     ```
 2.  **Install the dependencies:**
     ```bash
