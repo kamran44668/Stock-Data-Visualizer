@@ -1,0 +1,6 @@
+pandas
+requests
+yfinance==0.1.67
+beautifulsoup4==4.10.0
+plotly
+nbformat==4.2.0
